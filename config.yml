@@ -1,6 +1,7 @@
 version: '4'
 
 services:
+  wevAbc :
   webmvc:
     image: eshop/webmvc
     environment:
